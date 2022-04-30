@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">A curious frontend dev who dabbles in UX/UI</h3>
+<h3 align="center">A curious frontend dev with affinity for UX/UI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=octoshrimpy&label=Profile%20views&color=0e75b6&style=flat" alt="octoshrimpy" /> </p>
 
@@ -9,7 +9,11 @@
 
 - 👯 I’m looking to collaborate on **anything you might need help with!**
 
-- 👨‍💻 All of my projects are available at [github.com/octoshrimpy](github.com/octoshrimpy)
+- 👨‍💻 Projects @ [github.com/octoshrimpy](https://github.com/octoshrimpy)
+
+- 🎨 Designs @ [figma.com/@octoshrimpy](https://figma.com/@octoshrimpy)
+
+- ✏ Sketches @ [codepen.io/octoshrimpy](https://codepen.io/octoshrimpy)
 
 - 💬 Ask me about **(S)CSS, HTML, Bulma, web scraping or designing games**
 
