@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">A inquisitive frontend dev with a passion for UX/UI</h3>
+<h3 align="center">An inquisitive frontend dev with a passion for UX/UI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=octoshrimpy&label=Profile%20views&color=0e75b6&style=flat" alt="octoshrimpy" /> </p>
 
