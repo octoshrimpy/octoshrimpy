@@ -1,6 +1,6 @@
 # Marcos Jones 
 
-**UX/UI ▪ Automation** ▪ _[435.790.6286](tel:14357906286) ▪ [octoshrimpy@gmail.com](mailto:octoshrimpy@gmail.com)_
+**UX/UI ▪ Automation** ▪ _[octoshrimpy@gmail.com](mailto:octoshrimpy@gmail.com)_
 
 
 _Self-motivated & collaborative full-stack engineer with a passion for iterative design_.  \
