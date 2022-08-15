@@ -44,7 +44,7 @@ _Assisted in expanding the business into a national company by heading the IT se
 * Analyzed and adjusted systems for optimal performance with no budget
 
 * Designed routing and delivery system to: 
-  * create **savings of $6,000 monthly**
+  * Create **savings of $6,000 monthly**
   * On average, **optimize routes by 3 hours per team**
 
 
