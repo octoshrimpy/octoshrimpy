@@ -2,10 +2,9 @@
 <h3 align="center">An inquisitive frontend dev with a passion for UX/UI</h3>
 <h5 align="center" id="resume"><a href="./Marcos Jones.pdf">resume.pdf</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="./resume.md">resume.md</a></h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=octoshrimpy&label=Profile%20views&color=0e75b6&style=flat" alt="octoshrimpy" /> </p>
+<br>
 
-
-<p align="left">
+<p align="center">
   <span>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img
@@ -54,17 +53,9 @@
       />
     </a>
   </span>
-  <span>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img
-        src="https://github-profile-trophy.vercel.app/?username=octoshrimpy&title=PullRequests&theme=nord&no-frame=true&column=1"
-        alt="octoshrimpy"
-      />
-    </a>
-  </span>
 </p>
 
-
+<br>
 
 - 🔭 I’m currently working on 
   - [`Forge`](https://github.com/octoshrimpy/chromaforge) - a no-prep tabletop RPG, in [markdown](https://www.markdownguide.org/getting-started/)
@@ -348,3 +339,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=octoshrimpy&show_icons=true&locale=en&layout=compact" alt="octoshrimpy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=octoshrimpy&show_icons=true&locale=en" alt="octoshrimpy" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=octoshrimpy&label=Profile%20views&color=0e75b6&style=flat" alt="octoshrimpy" /> </p>
+
