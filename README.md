@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Marcos</h1>
+<h1 align="center" id="resume">Hi 👋, I'm Marcos</h1>
 <h3 align="center">An inquisitive frontend dev with a passion for UX/UI</h3>
-<h5 align="center" id="resume"><a href="./Marcos Jones.pdf">resume.pdf</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="./resume.md">resume.md</a></h5>
+<h5 align="center"><a href="./Marcos Jones.pdf">resume.pdf</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="./resume.md">resume.md</a></h5>
 
 <br>
 
