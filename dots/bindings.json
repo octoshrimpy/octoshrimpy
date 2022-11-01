@@ -1,4 +1,5 @@
 // ~/.config/micro/bindings.json
+// https://github.com/zyedidia/micro/blob/master/runtime/help/keybindings.md
 {
     "\u001b[1;2A": "SelectUp",
     "\u001b[1;2B": "SelectDown",
