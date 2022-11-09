@@ -76,12 +76,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/octoshrimpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="octoshrimpy" height="30" width="40" /></a>
-<!-- 
-<a href="https://dev.to/octoshrimpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="octoshrimpy" height="30" width="40" /></a>
--->
+<a rel="me" href="https://raccoon.place/@octoshrimpy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/216px-Mastodon_Logotype_%28Simple%29.svg.png?20170726152344" alt="octoshrimpy" height="30" width="30" /></a>
 <a href="https://twitter.com/octoshrimpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="octoshrimpy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/octoshrimpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="octoshrimpy" height="30" width="40" /></a>
+
+<!--
+<a href="https://codepen.io/octoshrimpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="octoshrimpy" height="30" width="40" /></a>
+ 
+<a href="https://dev.to/octoshrimpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="octoshrimpy" height="30" width="40" /></a>
+-->
+
 </p>
 
 
@@ -209,6 +213,7 @@
       height="40"
     />
   </a>
+  <!--
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
@@ -217,6 +222,7 @@
       height="40"
     />
   </a>
+  -->
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg"
