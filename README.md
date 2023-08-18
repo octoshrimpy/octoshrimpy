@@ -1,6 +1,6 @@
-<h1 align="center" id="resume">Hi 👋, I'm Marcos</h1>
-<h3 align="center">An inquisitive frontend dev with a passion for automation and UX/UI</h3>
-<h5 align="center"><a href="./Marcos Jones.pdf">resume.pdf</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="./resume.md">resume.md</a></h5>
+<h1 align="center" id="resume"><span><img height="34px" src="https://media.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif"</img></span> Hi, I'm Marcos</h1>
+<h5 align="center">An inquisitive frontend dev with a passion for automation and UX/UI</h5>
+<h3 align="center"><a href="./Marcos Jones.pdf">resume.pdf</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="./resume.md">resume.md</a></h3>
 
 <br>
 
@@ -141,6 +141,7 @@
       height="40"
     />
   </a>
+  and many more!
 
 </p>
 
