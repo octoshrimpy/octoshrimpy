@@ -1,5 +1,8 @@
 <h1 align="center" id="resume"><span><img height="34px" src="https://media.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif"</img></span> Hi, I'm Marcos</h1>
-<h5 align="center">An inquisitive frontend dev with a passion for automation and UX/UI</h5>
+<h5 align="center">Versatile code expert known as octoshrimpy, experienced in most tech stacks, sought-after mentor and experienced teacher. Driven by a passion for continuous improvement and efficiency enhancement. Catalyst for record-breaking automation savings in a handful of multi-national companies.
+<br>
+<br>
+Looking for my next big challenge.</h5>
 <h3 align="center"><a href="./Marcos Jones.pdf">resume.pdf</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="./resume.md">resume.md</a></h3>
 
 <br>
