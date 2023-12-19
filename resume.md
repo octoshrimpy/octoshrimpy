@@ -1,106 +1,61 @@
-# Marcos Jones 
+# Marcos Jones
+**Expert Technical Lead and Full-Stack Engineer**  
+Email: [octoshrimpy@gmail.com](mailto:octoshrimpy@gmail.com)   
+Location: Orem, UT  
+GitHub: [octoshrimpy](https://github.com/octoshrimpy)
 
-**UX/UI ▪ Automation** ▪ _[octoshrimpy@gmail.com](mailto:octoshrimpy@gmail.com)_
+## Summary
+Driver of complex projects and implementing efficient design principles. Mentor and leader in a range of technologies. Top performer for developing high-quality products.
 
+## Languages
+Python, Go, Java, PHP, MERN, CSS3, Shell, Ruby on Rails, Rust, Markdown, Lean Six Sigma
 
-_Self-motivated & collaborative full-stack engineer with a passion for iterative design_.  \
-_My focus is on delivering effective UX / UI, supplemented by a foundation of backend, automation and hardware design experience._
+## Skills
+- Problem-solving
+- Git
+- Risk assessment
+- Dev Ops
+- Creation and upkeep of technical documentation
+- Design and implementation of robotic process automation
+- Design of software architecture
+- Team lead utilizing Agile and Scrum methodologies
 
-<br>
-
-* 💻 Github: [octoshrimpy](https://Github.com/octoshrimpy)
-* 🎨 Figma: [octoshrimpy](https://figma.com/@octoshrimpy)
-* ✏️ Codepen: [octoshrimpy](https://codepen.io/octoshrimpy)
-* 🌐 LinkedIn: [Marcos Jones](https://linkedin.com/in/octoshrimpy)
-
-<br>
-
-<!-- ### Work History -->
-
-
+## Work Experience
 ### Workwave
-###### Automation Team Head ▪ _Aug '21 - Present_
-
-_Automate systems to reduce human error and increase productivity._  
-
-
-* Presented use cases for automation of processes and created automation branch
-
-* Liaise with three divisions in the company and write the necessary tools
-
-*	Decreased one task time by 99.72%, **saving $990,000 annually**
-
-*	Two weeks' worth of automation **created annual savings of $49,920** 
-
+**Technical Lead and Head of Automation Team**  
+*August 2021 - Present*
+- Orchestrated a code base migration from PHP 6 to PHP 8 for a large-scale WordPress plugin.
+- Presented use cases for automation of processes and created an automation branch RPA tracked by git.
+- Decreased one task time by 99.72%, saving $990,000 annually using Selenium and custom scripts.
+- Created annual savings of $49,920 with two weeks' worth of automation.
 
 ### Netvision
-###### System Administrator ▪ _Sept '20 - Jan '22_
-
-_Assisted in expanding the business into a national company by heading the IT section in Utah._  
-
-
-* Designed, installed and troubleshot *nix-based network hardware and software
-
-* Analyzed and adjusted systems for optimal performance with no budget
-
-* Designed routing and delivery system to: 
-  * Create **savings of $6,000 monthly**
-  * On average, **optimize routes by 3 hours per team**
-
+**Lead System Administrator**  
+*September 2020 - January 2022*
+- Designed, installed, and troubleshot *nix-based network hardware and software.
+- Analyzed and adjusted systems for optimal performance with no budget, creating savings of $6,000 monthly.
+- Optimized routes by 3 hours per team on average.
 
 ### Aquaveo
-###### System Administrator ▪ _Aug '20 - Aug '21_
-
-_Troubleshot software problems._  \
-_Maintained networks and servers in a small team._
-
-
-* Designed TUI SSH-based multi-server monitoring system
-
-* Troubleshot level 1 & 2 problems, eg: IP conflicts, drivers, maintenance, etc
-
-* Maintained networks and servers, eg: VPNs, routers, hardware, software, etc
-
-* Tested monitoring systems within internal systems, **deployed the best fit**
-
-* Built and maintained internal IT systems wiki, aggregating knowledge from current and previous employees' notes
-
-* **Saved upwards of $2,500** by sourcing local server hardware
-
+**System Administrator**  
+*August 2020 - August 2021*
+- Troubleshot level 1 & 2 problems (e.g., IP conflicts, drivers, maintenance).
+- Maintained networks and servers (e.g., VPNs, routers, hardware, software, dev ops, VMs).
+- Built and maintained an internal IT systems wiki, aggregating knowledge from current and previous employees' notes.
+- Saved upwards of $2,500 by sourcing local server hardware and setting up locally hosted RPA.
 
 ### Utah State University
-###### UX / UI, Frontend Dev ▪ _Sept '16 - Jun '19_
+**UX/UI Frontend Developer**  
+*September 2016 - December 2019*
+- Iteratively enhanced UI components and comprehensively refactored application pages for improved user experience through Agile Scrum sprint management.
+- Developed code documentation and established an internal visual style guide.
+- Conducted user research to build better user stories and used A/B testing to settle on the most intuitive options.
+- Built tools to identify usage bottlenecks and improve user experience.
 
-_Initiated application switch to a more robust codebase and cleaner design ideologies._  \
-_Designed, programmed, tested and debugged projects within Agile / Scrum methodologies._
-
-
-* Worked with team and users to develop and deploy Marionette-based web app
-
-* Programmed, tested and debugged all services within projects
-
-* **Iteratively designed and improved** current and past UI components 
-
-* Redesigned and refactored all application pages
-
-* Designed and implemented new code and code-style documentation
-
-* **Created an internal visual style guide** for in-house software
-
-* **Practiced A / B testing** to settle on the most intuitive interface for the users
-
-* **Conducted user research** on application use cases to **build better user stories**
-
-* Built internal user interaction logger to **identify usage bottlenecks** and improve user experience
-
-* **Met with groups of users monthly** to discuss usability on the latest updates, and **get feedback** for upcoming user interfaces, compared to current and future use cases
-
-<br>
-
-<!-- ### Skills & Assessments  -->
-
-* Figma / Gimp / Inkscape   
-* HTML5 / SCSS / ES6JS
-* Git / version control
-* Terminal usage
-* Agile / Scrum methodologies
+## Mentoring
+### 100Devs
+*Mentor*  
+*December 2022 - Present*
+- Guided numerous junior engineers to high-level roles at companies like Microsoft starting from foundational skills.
+- Created targeted training plans leading mentees to successful high-paying tech careers.
+- Acknowledged for outstanding mentorship fostering industry-ready talent.
