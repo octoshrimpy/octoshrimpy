@@ -69,6 +69,7 @@ Looking for my next big challenge.</h5>
 -->
 <!-- - 👯 I’m looking to collaborate on **anything you might need help with!** -->
 
+<!--
 - 👨‍💻 Projects @ [github.com/octoshrimpy](https://github.com/octoshrimpy)
 
 - 🎨 Designs @ [figma.com/@octoshrimpy](https://figma.com/@octoshrimpy)
@@ -76,7 +77,7 @@ Looking for my next big challenge.</h5>
 - ✏ Sketches @ [codepen.io/octoshrimpy](https://codepen.io/octoshrimpy)
 <!-- 
 - 💬 Ask me about **(S)CSS, HTML, Bulma, web scraping or designing games** -->
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a rel="me" href="https://raccoon.place/@octoshrimpy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/216px-Mastodon_Logotype_%28Simple%29.svg.png?20170726152344" alt="octoshrimpy" height="30" width="30" /></a>
@@ -96,7 +97,7 @@ Looking for my next big challenge.</h5>
 
 
 
-
+<!--
 <h3 align="left">Languages</h3>
 <p align="left">
   </a>
@@ -227,6 +228,7 @@ Looking for my next big challenge.</h5>
     />
   </a>
   -->
+<!--
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg"
@@ -349,10 +351,13 @@ Looking for my next big challenge.</h5>
 
 </p>
 
+-->
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=octoshrimpy&show_icons=true&locale=en&layout=compact" alt="octoshrimpy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=octoshrimpy&show_icons=true&locale=en" alt="octoshrimpy" /></p>
+-->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=octoshrimpy&label=Profile%20views&color=0e75b6&style=flat" alt="octoshrimpy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=octoshrimpy&label=Profile%20views&color=0e75b6&style=flat" alt="octoshrimpy" /> </p>
 
