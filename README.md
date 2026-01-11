@@ -4,7 +4,7 @@
 
 <!--GitHub webring-->
 ### [🐙 octo-ring 💍](https://octo-ring.com/)
-[← previous](https://octo-ring.com/p/wiggleforlife/prev) | [random](https://octo-ring.com/p/wiggleforlife/random) | [next →](https://octo-ring.com/p/wiggleforlife/next)
+[← previous](https://octo-ring.com/p/octoshrimpy/prev) | [random](https://octo-ring.com/p/octoshrimpy/random) | [next →](https://octo-ring.com/p/octoshrimpy/next)
 
 </div>
 <br>
@@ -13,7 +13,7 @@
   <span>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img
-        src="https://github-profile-trophy.vercel.app/?username=octoshrimpy&title=MultiLanguage&theme=nord&no-frame=true&column=1"
+        src="https://github-profile-trophy-liard-delta.vercel.app/?username=octoshrimpy&title=MultiLanguage&theme=nord&no-frame=true&column=1"
         alt="octoshrimpy"
       />
     </a>
@@ -21,7 +21,7 @@
   <span>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img
-        src="https://github-profile-trophy.vercel.app/?username=octoshrimpy&title=Commit&theme=nord&no-frame=true&column=1"
+        src="https://github-profile-trophy-liard-delta.vercel.app/?username=octoshrimpy&title=Commit&theme=nord&no-frame=true&column=1"
         alt="octoshrimpy"
       />
     </a>
@@ -29,7 +29,7 @@
   <span>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img
-        src="https://github-profile-trophy.vercel.app/?username=octoshrimpy&title=Repositories&theme=nord&no-frame=true&column=1"
+        src="https://github-profile-trophy-liard-delta.vercel.app/?username=octoshrimpy&title=Repositories&theme=nord&no-frame=true&column=1"
         alt="octoshrimpy"
       />
     </a>
@@ -37,7 +37,7 @@
   <span>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img
-        src="https://github-profile-trophy.vercel.app/?username=octoshrimpy&title=Stars&theme=nord&no-frame=true&column=1"
+        src="https://github-profile-trophy-liard-delta.vercel.app/?username=octoshrimpy&title=Stars&theme=nord&no-frame=true&column=1"
         alt="octoshrimpy"
       />
     </a>
@@ -45,7 +45,7 @@
   <span>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img
-        src="https://github-profile-trophy.vercel.app/?username=octoshrimpy&title=Followers&theme=nord&no-frame=true&column=1"
+        src="https://github-profile-trophy-liard-delta.vercel.app/?username=octoshrimpy&title=Followers&theme=nord&no-frame=true&column=1"
         alt="octoshrimpy"
       />
     </a>
@@ -53,7 +53,7 @@
   <span>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img
-        src="https://github-profile-trophy.vercel.app/?username=octoshrimpy&title=Issues&theme=nord&no-frame=true&column=1"
+        src="https://github-profile-trophy-liard-delta.vercel.app/?username=octoshrimpy&title=Issues&theme=nord&no-frame=true&column=1"
         alt="octoshrimpy"
       />
     </a>
