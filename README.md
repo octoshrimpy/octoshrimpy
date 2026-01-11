@@ -8,7 +8,7 @@
 
 </div>
 <br>
-
+<!--
 <p align="center">
   <span>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -59,10 +59,8 @@
     </a>
   </span>
 </p>
-
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=octoshrimpy&show_icons=true&locale=en&layout=compact" alt="octoshrimpy" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=octoshrimpy&show_icons=true&locale=en" alt="octoshrimpy" /></p>
 -->
 
